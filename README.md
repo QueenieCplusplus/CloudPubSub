@@ -62,5 +62,5 @@ from step 1:
    
          [result in UI]
          
-        ![](https://raw.githubusercontent.com/QueenieCplusplus/CloudPubSub/main/pubsub%20topics.png)
+        ![topic](https://raw.githubusercontent.com/QueenieCplusplus/CloudPubSub/main/pubsub%20topics%200.png)
         

@@ -11,5 +11,7 @@ The Google Cloud Pub/Sub service allows applications to exchange messages reliab
 
 (3) public message to topic.
 
-(4) to pu
+(4) to delivery (indivisual) output topic meassage using a Pull Subsriber.
+
+-----
 

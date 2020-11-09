@@ -60,5 +60,7 @@ from step 1:
     
    * 2.5, in cloud console, navigate to Big Data > Pub/Sub > topics we made.
    
-        [result in UI]
+         [result in UI]
+         
+        ![](https://raw.githubusercontent.com/QueenieCplusplus/CloudPubSub/main/pubsub%20topics.png)
         

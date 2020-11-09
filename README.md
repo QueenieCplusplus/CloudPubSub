@@ -45,3 +45,7 @@ from step 1:
        git clone https://github.com/QueenieCplusplus/PubSub_Python_App.git
       
        cd PubSub_Python_App
+       
+  * 2.3, get Google Proj ID
+  
+        export GLOBAL_CLOUD_PROJECT=GCP Project ID

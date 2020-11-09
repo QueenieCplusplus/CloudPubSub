@@ -41,3 +41,7 @@ from step 1:
        pip install --upgrade google-cloud-pubsub
        
  * 2.2, get pkg from github.
+ 
+       git clone https://github.com/QueenieCplusplus/PubSub_Python_App.git
+      
+       cd PubSub_Python_App

@@ -57,5 +57,8 @@ from step 1:
         python publisher.py -h
         
         python publisher.py $GLOBAL_CLOUD_PROJECT create MyTopic
-        
+    
+   * 2.5, in cloud console, navigate to Big Data > Pub/Sub > topics we made.
+   
+        [result in UI]
         

@@ -49,3 +49,13 @@ from step 1:
   * 2.3, get Google Proj ID
   
         export GLOBAL_CLOUD_PROJECT=GCP Project ID
+
+  * 2.4, edit code file
+  
+        cat publisher.py
+        
+        python publisher.py -h
+        
+        python publisher.py $GLOBAL_CLOUD_PROJECT create MyTopic
+        
+        

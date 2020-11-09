@@ -50,7 +50,7 @@ from step 1:
   
         export GLOBAL_CLOUD_PROJECT=GCP Project ID
 
-  * 2.4, edit code file
+  * 2.4, edit/running code file
   
         cat publisher.py
         
